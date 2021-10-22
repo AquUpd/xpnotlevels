@@ -1,3 +1,3 @@
-# Fabric 1.17 blank mod
+# XP not Levels!
 
 That's it!
