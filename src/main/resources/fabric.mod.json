@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "aqupdblank",
+  "id": "xpnotlevels",
   "version": "${version}",
 
-  "name": "Blank mod",
+  "name": "XP not Levels!",
   "description": "There's nothing here",
   "authors": [
     "AqUpd!"
@@ -18,11 +18,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.aqupd.aqupdblank.Main"
+      "com.aqupd.xpnotlevels.Main"
     ]
   },
   "mixins": [
-    "aqupdblank.mixins.json"
+    "xpnotlevels.mixins.json"
   ],
 
   "depends": {

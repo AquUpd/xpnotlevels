@@ -1,10 +1,11 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.aqupd.aqupdblank.mixins",
+  "package": "com.aqupd.xpnotlevels.mixins",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "BlankMixin"
+    "PlayerMixin",
+    "AnvilScreenHandlerMixin"
   ],
   "client": [],
   "server": [],

@@ -1,11 +1,11 @@
-package com.aqupd.aqupdblank.utils;
+package com.aqupd.xpnotlevels.utils;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class AqLogger {
     private static final Logger LOGGER = LogManager.getLogger();
-    private static String logprefix = "[AqUpd's blank mod] ";
+    private static String logprefix = "[AqUpd's XPnotLevels] ";
 
     public static void logError(String error) {
         LOGGER.error(logprefix + error);
